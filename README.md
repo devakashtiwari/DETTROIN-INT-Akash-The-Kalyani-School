@@ -7,6 +7,7 @@ GitHub Username: your-github-username
 Selected Website: The Kalyani School (this project)
 Live Demo Link: (Add link after deploying, e.g., GitHub Pages)
 Technologies Used:
+
 - HTML5
 - CSS3 (responsive, simple optimization)
 - Vanilla JavaScript (for small UI behavior)
