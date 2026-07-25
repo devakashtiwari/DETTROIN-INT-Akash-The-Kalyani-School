@@ -13,6 +13,7 @@ Technologies Used:
 - CSS3 (responsive, simple optimization)
 - Vanilla JavaScript (for small UI behavior)
 
+
 Key Improvements Made:
 - Clean folder structure (css/, js/, gallery/)
 - Reusable base styles and utilities
