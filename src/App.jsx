@@ -15,7 +15,6 @@ import SiteOpeningAnimation from "./components/SiteOpeningAnimation";
 
 export default function App() {
   const [theme, setTheme] = useState("light");
-
   useEffect(() => {
     const storedTheme = localStorage.getItem("theme");
     if (storedTheme === "light" || storedTheme === "dark") {
