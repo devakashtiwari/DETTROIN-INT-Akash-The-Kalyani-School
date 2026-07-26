@@ -1,17 +1,17 @@
 # DETTROIN-INT--SchoolWebsite
 
-Full Name: YOUR FULL NAME HERE
+Full Name: Akash Tiwari
 Intern ID: YOUR INTERN ID HERE
-Email Address: you@example.com
-GitHub Username: your-github-username
+Email Address: monkmarsal@gmail.com
+GitHub Username: devakashtiwari
 Selected Website: The Kalyani School (this project)
-Live Demo Link: (Add link after deploying, e.g., GitHub Pages)
+Live Demo Link: (https://dettroin-int-akash-the-kalyani-scho.vercel.app/)
 
 Technologies Used:
 
 - HTML5
 - CSS3 (responsive, simple optimization)
-- Vanilla JavaScript (for small UI behavior)
+- JavaScript (for small UI behavior) +(React+vite)
 
 Key Improvements Made:
 - Clean folder structure (css/, js/, gallery/)
